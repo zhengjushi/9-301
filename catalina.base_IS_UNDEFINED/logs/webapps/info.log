@@ -1,0 +1,129 @@
+2019-03-01 18:18:16.151 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:22:59.674 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:28:38.131 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:29:15.171 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:35:23.208 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:36:33.627 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:36:33.666 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), null, 1234567890(String), testImg(String), 1(Integer), 2019-03-01 18:36:33.237(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 18:46:41.482 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?,?, ?,?,?,?) 
+2019-03-01 18:46:41.525 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), test(String), 1234567890(String), testImg(String), null, 2019-03-01 18:46:41.088(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 18:49:43.724 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc, shop_addr,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-01 18:49:43.777 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), 1234567890(String), testImg(String), null, 2019-03-01 18:49:43.407(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 18:51:18.800 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,phone,shop_img,priority,create_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-01 18:51:18.839 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), 1234567890(String), testImg(String), null, 2019-03-01 18:51:18.458(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 19:00:15.729 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,phone,shop_img,priority,craete_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-01 19:00:15.765 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), 1234567890(String), testImg(String), null, 2019-03-01 19:00:15.39(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 19:00:15.896 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - <==    Updates: 1
+2019-03-01 19:05:04.659 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,phone,shop_img,priority,craete_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-01 19:05:04.691 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺(String), 测试(String), 1234567890(String), testImg(String), null, 2019-03-01 19:05:04.321(Timestamp), null, 1(Integer), 审核中(String)
+2019-03-01 19:05:04.799 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - <==    Updates: 1
+2019-03-02 00:08:08.028 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, phone=?, shop_img=?, last_edit_time=? where shop_id = ? 
+2019-03-02 00:08:08.100 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==> Parameters: 测试店铺(String), 测试号码(String), 测试图片(String), 2019-03-02 00:08:07.695(Timestamp), 1(Long)
+2019-03-02 00:08:08.156 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - <==    Updates: 1
+2019-03-05 19:17:19.183 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,phone,shop_img,priority,craete_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-05 19:17:19.256 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺1(String), 测试(String), test1(String), null, null, 2019-03-05 19:17:19.16(Timestamp), 2019-03-05 19:17:19.16(Timestamp), 0(Integer), 审核中(String)
+2019-03-05 19:17:19.318 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - <==    Updates: 1
+2019-03-05 19:17:19.554 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, shop_desc=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=?, shop_category_id=? where shop_id = ? 
+2019-03-05 19:17:19.555 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==> Parameters: 测试店铺1(String), 测试(String), test1(String), upload\item\shop\2\2019030519171974356.jpg(String), 2019-03-05 19:17:19.16(Timestamp), 0(Integer), 审核中(String), 1(Long), 2(Long)
+2019-03-05 19:17:19.587 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - <==    Updates: 1
+2019-03-07 20:52:15.106 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==>  Preparing: insert into tb_shop(owner_id,area_id,shop_category_id,shop_name,shop_desc,phone,shop_img,priority,craete_time,last_edit_time, enable_status,advice) values (?,?,?,?, ?,?,?,?, ?,?,?,?) 
+2019-03-07 20:52:15.179 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - ==> Parameters: 1(Long), 3(Integer), 1(Long), 测试店铺3(String), 测试3(String), tes3(String), null, null, 2019-03-07 20:52:15.081(Timestamp), 2019-03-07 20:52:15.081(Timestamp), 0(Integer), 审核中3(String)
+2019-03-07 20:52:15.229 [main] DEBUG com.juju.o2o.dao.ShopDao.insertShop - <==    Updates: 1
+2019-03-07 20:52:15.473 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==>  Preparing: update tb_shop SET shop_name=?, shop_desc=?, phone=?, shop_img=?, last_edit_time=?, enable_status=?, advice=?, shop_category_id=? where shop_id = ? 
+2019-03-07 20:52:15.474 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - ==> Parameters: 测试店铺3(String), 测试3(String), tes3(String), upload\item\shop\3\2019030720521586393.jpg(String), 2019-03-07 20:52:15.081(Timestamp), 0(Integer), 审核中3(String), 1(Long), 3(Long)
+2019-03-07 20:52:15.517 [main] DEBUG com.juju.o2o.dao.ShopDao.updateShop - <==    Updates: 1
+2019-03-12 16:31:57.522 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 16:31:57.593 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 16:31:57.650 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-12 16:33:07.421 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 16:33:07.452 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 16:33:07.468 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 16:33:22.441 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 16:33:22.465 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 16:33:22.481 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:14:21.640 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 21:14:21.668 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 21:14:21.685 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:15:31.003 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 21:15:31.034 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 21:15:31.051 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:16:56.067 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 21:16:56.095 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 21:16:56.112 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:17:48.554 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 21:17:48.586 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 21:17:48.603 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:22:30.030 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-12 21:22:30.064 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-12 21:22:30.081 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-12 21:22:30.089 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-03-12 21:22:30.090 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-12 21:22:30.185 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:02:54.920 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:02:55.000 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:02:55.018 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:02:55.027 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-03-13 22:02:55.027 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:02:55.029 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:04:34.723 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:04:34.756 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:04:34.773 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:04:34.779 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:04:34.779 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:04:34.781 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:04:34.784 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-03-13 22:04:34.785 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:04:34.786 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:04:51.279 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:04:51.311 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:04:51.326 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:04:51.333 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:04:51.333 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:04:51.335 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:04:51.339 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-03-13 22:04:51.339 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:04:51.340 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:06:06.805 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:06:06.909 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:06:06.930 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:06:06.936 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 22:06:06.936 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:06:06.937 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:06:06.942 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY priority DESC 
+2019-03-13 22:06:06.943 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:06:06.944 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:07:45.855 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY shop_category_id DESC 
+2019-03-13 22:07:45.884 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:07:45.900 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:07:45.905 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY shop_category_id DESC 
+2019-03-13 22:07:45.906 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:07:45.907 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:07:45.910 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY shop_category_id DESC 
+2019-03-13 22:07:45.911 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:07:45.912 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 22:08:19.377 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY shop_category_id 
+2019-03-13 22:08:19.414 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:08:19.431 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:08:19.436 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY shop_category_id 
+2019-03-13 22:08:19.437 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 22:08:19.438 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-13 22:08:19.442 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category WHERE parent_id = ? ORDER BY shop_category_id 
+2019-03-13 22:08:19.442 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 1(Long)
+2019-03-13 22:08:19.444 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 1
+2019-03-13 23:04:45.812 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_img, priority, create_time, last_edit_time, parent_id FROM tb_shop_category ORDER BY priority DESC 
+2019-03-13 23:04:45.845 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2019-03-13 23:04:45.861 [main] DEBUG com.juju.o2o.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2019-03-15 20:56:43.671 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, s.area_id, s.area_name, s.shop_category_id, s.shop_category_name, FROM tb_shop s, tb_area a, tb_shop_category sc, WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 20:56:43.735 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 20:59:36.647 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, s.area_id, s.area_name, sc.shop_category_id, sc.shop_category_name, FROM tb_shop s, tb_area a, tb_shop_category sc, WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 20:59:36.681 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 21:00:18.393 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, s.area_id, s.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 21:00:18.422 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 21:02:28.583 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, s.area_id, s.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 21:02:28.619 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 21:04:47.853 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 21:04:47.886 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 21:04:47.903 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - <==      Total: 1
+2019-03-15 21:05:56.487 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==>  Preparing: SELECT s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.area_id = a.area_id AND s.shop_category_id = sc.shop_category_id AND s.shop_id = ? 
+2019-03-15 21:05:56.525 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - ==> Parameters: 1(Long)
+2019-03-15 21:05:56.542 [main] DEBUG com.juju.o2o.dao.ShopDao.queryByShopId - <==      Total: 1
